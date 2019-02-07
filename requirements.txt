@@ -1,0 +1,6 @@
+# python 3.7.2
+aiohttp
+aiofiles
+pytest
+pytest-runner
+pytest-aiohttp

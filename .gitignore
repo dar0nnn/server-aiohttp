@@ -1,0 +1,10 @@
+.vscode/
+rostelEnv/
+papka/
+tmp/
+*.pyc
+*.log
+*.old
+*.exe
+__pychache__/
+.pytest_cache/
